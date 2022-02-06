@@ -19,7 +19,7 @@
       "nama" : "Luna",
       "alamat": "Bali",
       "umur" : 20,
-"      email": "Lun4@gmail.com"
+      "email": "Lun4@gmail.com"
     },
     {
       "id":4,
@@ -27,6 +27,6 @@
       "alamat": "Bali",
       "umur" : 20,
       "email": "erda@gmail.com"
-    },
+    }
 ]
 }
